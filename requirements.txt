@@ -1,0 +1,5 @@
+Flask==2.3.2           # Flask for building the web API
+Flask-Cors==3.0.10     # Enable Cross-Origin Resource Sharing (if needed)
+pytest==7.4.0          # For testing your API
+pytest-flask==1.2.0    # For Flask-specific test utilities
+sqlite3                # For SQLite database interaction
